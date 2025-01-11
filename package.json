@@ -1,6 +1,7 @@
 {
   "name": "preset-api",
   "version": "1.0.0",
+  "type": "module",
   "main": "server.js",
   "engines": {
     "node": ">=14.0.0"
